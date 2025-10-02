@@ -1,5 +1,9 @@
 # Experiments
 
+### 2024-10-2
+
+- [Sliding menu animation with resize observer Svelte attachment function](https://svelte.dev/playground/c4f0e8aed9914e69a6430744e4579c52?version=5.39.8)
+
 ### 2025-10-1
 
 - [Carousel scroll buttons](https://svelte.dev/playground/78e27841bf654787b172a74fa6252f81?version=5.39.8)
