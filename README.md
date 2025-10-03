@@ -3,7 +3,7 @@
 ### 2024-10-2
 
 - [Unstorage with SvelteKit Hook](https://github.com/joshnuss/sk-unstorage-experiment)
-- [Refactor unstorage to use import instead of Hook](https://github.com/joshnuss/sk-unstorage-experiment/tree/global)
+- [Refactor unstorage to use import instead of Hook](https://github.com/joshnuss/sk-unstorage-experiment/tree/import)
 - [Resize observer with attachment function](https://svelte.dev/playground/e9a43960238541f7be3a91701d0e42b4?version=5.39.8)
 - [Sliding menu animation with resize attachment](https://svelte.dev/playground/c4f0e8aed9914e69a6430744e4579c52?version=5.39.8)
 
