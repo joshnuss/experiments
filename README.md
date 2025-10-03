@@ -1,5 +1,9 @@
 # Experiments
 
+### 2024-10-3
+
+- [Text snake animation](https://svelte.dev/playground/673c1b4bb7e24b03804cfa5f1276e448?version=5.39.8)
+
 ### 2024-10-2
 
 - [Unstorage with SvelteKit Hook](https://github.com/joshnuss/sk-unstorage-experiment)
