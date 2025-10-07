@@ -2,6 +2,7 @@
 
 ### 2024-10-6
 
+- [JS Proxy for measuring performance of function calls](https://gist.github.com/joshnuss/93e71c7775be0f87da31620535ea9e8b)
 - [JS Proxy for logging function calls](https://gist.github.com/joshnuss/57618adb4a421433ba3979e33faa1dfb)
 - [JS Proxy that fires change events](https://gist.github.com/joshnuss/bc3419e953b9b74959bf015c687c7be6)
 
