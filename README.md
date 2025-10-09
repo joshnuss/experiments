@@ -1,16 +1,20 @@
 # Experiments
 
-### 2024-10-6
+### 2025-10-9
+
+- [JS Proxy for a function][https://gist.github.com/joshnuss/c2679744eb08be69b99701e12d111e95]
+
+### 2025-10-6
 
 - [JS Proxy for measuring performance of function calls](https://gist.github.com/joshnuss/93e71c7775be0f87da31620535ea9e8b)
 - [JS Proxy for logging function calls](https://gist.github.com/joshnuss/57618adb4a421433ba3979e33faa1dfb)
 - [JS Proxy that fires change events](https://gist.github.com/joshnuss/bc3419e953b9b74959bf015c687c7be6)
 
-### 2024-10-3
+### 2025-10-3
 
 - [Text snake animation](https://svelte.dev/playground/673c1b4bb7e24b03804cfa5f1276e448?version=5.39.8)
 
-### 2024-10-2
+### 2025-10-2
 
 - [Unstorage with SvelteKit Hook](https://github.com/joshnuss/sk-unstorage-experiment)
 - [Refactor unstorage to use import instead of Hook](https://github.com/joshnuss/sk-unstorage-experiment/tree/import)
