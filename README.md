@@ -2,7 +2,7 @@
 
 ### 2025-10-9
 
-- [JS Proxy for a function][https://gist.github.com/joshnuss/c2679744eb08be69b99701e12d111e95]
+- [JS Proxy for a function](https://gist.github.com/joshnuss/c2679744eb08be69b99701e12d111e95)
 
 ### 2025-10-6
 
