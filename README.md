@@ -1,5 +1,8 @@
 # Experiments
 
+### 2025-10-10
+
+- [Store video time and recover on start](https://svelte.dev/playground/8311f82d699e4df3b27cac01058774cc?version=5.39.11)
 ### 2025-10-9
 
 - [JS Proxy for a function](https://gist.github.com/joshnuss/c2679744eb08be69b99701e12d111e95)
